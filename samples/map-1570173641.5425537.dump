@@ -1,0 +1,1746 @@
+{
+    "directed": false,
+    "multigraph": true,
+    "graph": {},
+    "nodes": [
+        {
+            "type": "startup",
+            "id": "Go-Jek"
+        },
+        {
+            "type": "startup",
+            "id": "Grab"
+        },
+        {
+            "type": "startup",
+            "id": "Lazada"
+        },
+        {
+            "type": "startup",
+            "id": "Carro"
+        },
+        {
+            "type": "startup",
+            "id": "Traveloka"
+        },
+        {
+            "type": "startup",
+            "id": "Tiket.com"
+        },
+        {
+            "type": "startup",
+            "id": "Bukalapak"
+        },
+        {
+            "type": "startup",
+            "id": "PropertyGuru"
+        },
+        {
+            "type": "startup",
+            "id": "MoneySmart"
+        },
+        {
+            "type": "startup",
+            "id": "99.co"
+        },
+        {
+            "type": "startup",
+            "id": "Sea - NYSE:SE"
+        },
+        {
+            "type": "startup",
+            "id": "AirTrunk"
+        },
+        {
+            "type": "startup",
+            "id": "Trax"
+        },
+        {
+            "type": "startup",
+            "id": "KyberNetwork"
+        },
+        {
+            "type": "startup",
+            "id": "Bigo"
+        },
+        {
+            "type": "startup",
+            "id": "ONE Championship"
+        },
+        {
+            "type": "startup",
+            "id": "MyRepublic"
+        },
+        {
+            "type": "startup",
+            "id": "Sunseap"
+        },
+        {
+            "type": "startup",
+            "id": "Thessa Therapeutics"
+        },
+        {
+            "type": "startup",
+            "id": "Carousell"
+        },
+        {
+            "type": "startup",
+            "id": "Ninja Van"
+        },
+        {
+            "type": "startup",
+            "id": "Zilingo"
+        },
+        {
+            "type": "startup",
+            "id": "MC Payment"
+        },
+        {
+            "type": "startup",
+            "id": "Republic Protocol"
+        },
+        {
+            "type": "startup",
+            "id": "TenX"
+        },
+        {
+            "type": "startup",
+            "id": "Tokopedia"
+        },
+        {
+            "type": "investor",
+            "id": "500 Startups"
+        },
+        {
+            "type": "investor",
+            "id": "2W Group"
+        },
+        {
+            "type": "investor",
+            "id": "8 Decimal Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Abraaj Group"
+        },
+        {
+            "type": "investor",
+            "id": "Alexis Berthoud"
+        },
+        {
+            "type": "investor",
+            "id": "Alibaba Group"
+        },
+        {
+            "type": "investor",
+            "id": "All-Stars Investment"
+        },
+        {
+            "type": "investor",
+            "id": "Alpha JWC Ventures"
+        },
+        {
+            "type": "investor",
+            "id": "Amadeus Capital Partners"
+        },
+        {
+            "type": "investor",
+            "id": "Amino Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Andreas Schwartz"
+        },
+        {
+            "type": "investor",
+            "id": "Andreas von Arx"
+        },
+        {
+            "type": "investor",
+            "id": "Angel Capital Management"
+        },
+        {
+            "type": "investor",
+            "id": "Ant Financial"
+        },
+        {
+            "type": "investor",
+            "id": "APUS Investments"
+        },
+        {
+            "type": "investor",
+            "id": "aucfan Co.,Ltd."
+        },
+        {
+            "type": "investor",
+            "id": "Aura Ventures"
+        },
+        {
+            "type": "investor",
+            "id": "B Capital Group"
+        },
+        {
+            "type": "investor",
+            "id": "Baillie Gifford and Company"
+        },
+        {
+            "type": "investor",
+            "id": "Banpu"
+        },
+        {
+            "type": "investor",
+            "id": "Batavia Incubator"
+        },
+        {
+            "type": "investor",
+            "id": "Beacon Venture Capital"
+        },
+        {
+            "type": "investor",
+            "id": "BEENEXT"
+        },
+        {
+            "type": "investor",
+            "id": "Blibli"
+        },
+        {
+            "type": "investor",
+            "id": "BlockVC"
+        },
+        {
+            "type": "investor",
+            "id": "Booking Holdings"
+        },
+        {
+            "type": "investor",
+            "id": "Boyu Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Broad Peak Investment"
+        },
+        {
+            "type": "investor",
+            "id": "Burda Principal Investments"
+        },
+        {
+            "type": "investor",
+            "id": "Capikris Foundation"
+        },
+        {
+            "type": "investor",
+            "id": "Central Group of Company"
+        },
+        {
+            "type": "investor",
+            "id": "Chain Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Charles-Lim Capital Ltd"
+        },
+        {
+            "type": "investor",
+            "id": "CLSA Capital Partners"
+        },
+        {
+            "type": "investor",
+            "id": "Connor Benoit-Milner"
+        },
+        {
+            "type": "investor",
+            "id": "Convergence Ventures"
+        },
+        {
+            "type": "investor",
+            "id": "DBS Bank"
+        },
+        {
+            "type": "investor",
+            "id": "Dennis Jacobs"
+        },
+        {
+            "type": "investor",
+            "id": "Deutsche Bank"
+        },
+        {
+            "type": "investor",
+            "id": "Dian Swastatika Sentosa"
+        },
+        {
+            "type": "investor",
+            "id": "Didi Chuxing"
+        },
+        {
+            "type": "investor",
+            "id": "DPD group"
+        },
+        {
+            "type": "investor",
+            "id": "Draper Associates"
+        },
+        {
+            "type": "investor",
+            "id": "DST Communications"
+        },
+        {
+            "type": "investor",
+            "id": "DST Global"
+        },
+        {
+            "type": "investor",
+            "id": "DZW Capital"
+        },
+        {
+            "type": "investor",
+            "id": "East Ventures"
+        },
+        {
+            "type": "investor",
+            "id": "EDBI"
+        },
+        {
+            "type": "investor",
+            "id": "Emtek Group"
+        },
+        {
+            "type": "investor",
+            "id": "Enspire Capital"
+        },
+        {
+            "type": "investor",
+            "id": "ESW Manage"
+        },
+        {
+            "type": "investor",
+            "id": "Expedia"
+        },
+        {
+            "type": "investor",
+            "id": "FBG Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Fenbushi Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Fenox Venture Capital"
+        },
+        {
+            "type": "investor",
+            "id": "FF Estate AG"
+        },
+        {
+            "type": "investor",
+            "id": "Finn Evdemon Capital Partners"
+        },
+        {
+            "type": "investor",
+            "id": "GC Capital"
+        },
+        {
+            "type": "investor",
+            "id": "General Atlantic, LLC"
+        },
+        {
+            "type": "investor",
+            "id": "GGV Capital"
+        },
+        {
+            "type": "investor",
+            "id": "GIC"
+        },
+        {
+            "type": "investor",
+            "id": "Global Founders Capital"
+        },
+        {
+            "type": "investor",
+            "id": "GMO"
+        },
+        {
+            "type": "investor",
+            "id": "Golden Equator Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Golden Gate Ventures"
+        },
+        {
+            "type": "investor",
+            "id": "Goldman Sachs"
+        },
+        {
+            "type": "investor",
+            "id": "Google"
+        },
+        {
+            "type": "investor",
+            "id": "GREE Ventures"
+        },
+        {
+            "type": "investor",
+            "id": "Greenoaks Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Hashed"
+        },
+        {
+            "type": "investor",
+            "id": "Heliconia Capital Management"
+        },
+        {
+            "type": "investor",
+            "id": "Hera Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Hillhouse Capital Group"
+        },
+        {
+            "type": "investor",
+            "id": "Honda Motor"
+        },
+        {
+            "type": "investor",
+            "id": "Hsbc Holdings Plc"
+        },
+        {
+            "type": "investor",
+            "id": "Huobi Capital"
+        },
+        {
+            "type": "investor",
+            "id": "HV Holtzbrinck Ventures"
+        },
+        {
+            "type": "investor",
+            "id": "Hyperchain Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Hyundai Motor Company"
+        },
+        {
+            "type": "investor",
+            "id": "ImmobilienScout 24"
+        },
+        {
+            "type": "investor",
+            "id": "ING Group"
+        },
+        {
+            "type": "investor",
+            "id": "Insignia Ventures Partners"
+        },
+        {
+            "type": "investor",
+            "id": "Invesco Ltd."
+        },
+        {
+            "type": "investor",
+            "id": "Investec"
+        },
+        {
+            "type": "investor",
+            "id": "IREP"
+        },
+        {
+            "type": "investor",
+            "id": "ISOTeam"
+        },
+        {
+            "type": "investor",
+            "id": "JD.com"
+        },
+        {
+            "type": "investor",
+            "id": "John Rost"
+        },
+        {
+            "type": "investor",
+            "id": "Julian Sarokin"
+        },
+        {
+            "type": "investor",
+            "id": "K3 Ventures"
+        },
+        {
+            "type": "investor",
+            "id": "Kakaku.com"
+        },
+        {
+            "type": "investor",
+            "id": "Kamet Capital Partners"
+        },
+        {
+            "type": "investor",
+            "id": "Karst Peak Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Kohlberg Kravis Roberts (KKR)"
+        },
+        {
+            "type": "investor",
+            "id": "Kuo-Yi Lim"
+        },
+        {
+            "type": "investor",
+            "id": "Limitless Crypto Investments"
+        },
+        {
+            "type": "investor",
+            "id": "Lone Pine Capital, LLC"
+        },
+        {
+            "type": "investor",
+            "id": "Makara Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Manik Arora"
+        },
+        {
+            "type": "investor",
+            "id": "Meituan-Dianping"
+        },
+        {
+            "type": "investor",
+            "id": "Microsoft"
+        },
+        {
+            "type": "investor",
+            "id": "Mirae Asset-Naver Asia Growth Fund"
+        },
+        {
+            "type": "investor",
+            "id": "Mission Holdings"
+        },
+        {
+            "type": "investor",
+            "id": "Monk's Hill Ventures"
+        },
+        {
+            "type": "investor",
+            "id": "Mustedanagic & Plott Brothers GbR"
+        },
+        {
+            "type": "investor",
+            "id": "Natixis"
+        },
+        {
+            "type": "investor",
+            "id": "New World Strategic Investment"
+        },
+        {
+            "type": "investor",
+            "id": "OLX Group"
+        },
+        {
+            "type": "investor",
+            "id": "Openspace Ventures"
+        },
+        {
+            "type": "investor",
+            "id": "OPT SEA"
+        },
+        {
+            "type": "investor",
+            "id": "Perle Ventures"
+        },
+        {
+            "type": "investor",
+            "id": "Ping An Overseas Holdings"
+        },
+        {
+            "type": "investor",
+            "id": "Plasma Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Polychain"
+        },
+        {
+            "type": "investor",
+            "id": "Price (T.Rowe) Associates Inc"
+        },
+        {
+            "type": "investor",
+            "id": "PT. Astra International Tbk"
+        },
+        {
+            "type": "investor",
+            "id": "Qunar.com"
+        },
+        {
+            "type": "investor",
+            "id": "Rakuten Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Rocket Internet"
+        },
+        {
+            "type": "investor",
+            "id": "Royston Tay"
+        },
+        {
+            "type": "investor",
+            "id": "Sequoia Capital India"
+        },
+        {
+            "type": "investor",
+            "id": "Sequoia Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Singtel Innov8"
+        },
+        {
+            "type": "investor",
+            "id": "Skystar Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Sofina"
+        },
+        {
+            "type": "investor",
+            "id": "Softbank Ventures Asia"
+        },
+        {
+            "type": "investor",
+            "id": "SoftBank Vision Fund"
+        },
+        {
+            "type": "investor",
+            "id": "SoftBank"
+        },
+        {
+            "type": "investor",
+            "id": "SPH Media Fund"
+        },
+        {
+            "type": "investor",
+            "id": "Square Peg Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Summit Partners"
+        },
+        {
+            "type": "investor",
+            "id": "Sunshine Network"
+        },
+        {
+            "type": "investor",
+            "id": "Susquehanna International Group (SIG)"
+        },
+        {
+            "type": "investor",
+            "id": "Temasek Holdings"
+        },
+        {
+            "type": "investor",
+            "id": "Tencent Holdings"
+        },
+        {
+            "type": "investor",
+            "id": "TEV | Tengelmann Ventures"
+        },
+        {
+            "type": "investor",
+            "id": "Tiger Global Management"
+        },
+        {
+            "type": "investor",
+            "id": "Tiger Global Management, LLC"
+        },
+        {
+            "type": "investor",
+            "id": "Tigris Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Tim Draper"
+        },
+        {
+            "type": "investor",
+            "id": "Tokyo Century"
+        },
+        {
+            "type": "investor",
+            "id": "Toyota Motor Corporation"
+        },
+        {
+            "type": "investor",
+            "id": "TPG"
+        },
+        {
+            "type": "investor",
+            "id": "TRIREC"
+        },
+        {
+            "type": "investor",
+            "id": "tryb Group"
+        },
+        {
+            "type": "investor",
+            "id": "United Overseas Bank"
+        },
+        {
+            "type": "investor",
+            "id": "Upstream Ventures"
+        },
+        {
+            "type": "investor",
+            "id": "Venturra Capital"
+        },
+        {
+            "type": "investor",
+            "id": "Vertex Ventures Southeast Asia & India"
+        },
+        {
+            "type": "investor",
+            "id": "Vertex Ventures"
+        },
+        {
+            "type": "investor",
+            "id": "Warburg Pincus"
+        },
+        {
+            "type": "investor",
+            "id": "Ward Ferry Management (BVI) Ltd"
+        },
+        {
+            "type": "investor",
+            "id": "Wavemaker Partners"
+        },
+        {
+            "type": "investor",
+            "id": "Xavier Niel"
+        },
+        {
+            "type": "investor",
+            "id": "Xueling Li"
+        },
+        {
+            "type": "investor",
+            "id": "Yamaha Motor Co.,"
+        },
+        {
+            "type": "investor",
+            "id": "YY.com"
+        },
+        {
+            "type": "investor",
+            "id": "Chow Tai Fook"
+        }
+    ],
+    "links": [
+        {
+            "source": "Go-Jek",
+            "target": "Blibli",
+            "key": 0
+        },
+        {
+            "source": "Go-Jek",
+            "target": "Capikris Foundation",
+            "key": 0
+        },
+        {
+            "source": "Go-Jek",
+            "target": "DST Global",
+            "key": 0
+        },
+        {
+            "source": "Go-Jek",
+            "target": "Google",
+            "key": 0
+        },
+        {
+            "source": "Go-Jek",
+            "target": "Hera Capital",
+            "key": 0
+        },
+        {
+            "source": "Go-Jek",
+            "target": "JD.com",
+            "key": 0
+        },
+        {
+            "source": "Go-Jek",
+            "target": "K3 Ventures",
+            "key": 0
+        },
+        {
+            "source": "Go-Jek",
+            "target": "Meituan-Dianping",
+            "key": 0
+        },
+        {
+            "source": "Go-Jek",
+            "target": "New World Strategic Investment",
+            "key": 0
+        },
+        {
+            "source": "Go-Jek",
+            "target": "Openspace Ventures",
+            "key": 0
+        },
+        {
+            "source": "Go-Jek",
+            "target": "PT. Astra International Tbk",
+            "key": 0
+        },
+        {
+            "source": "Go-Jek",
+            "target": "Rakuten Capital",
+            "key": 0
+        },
+        {
+            "source": "Go-Jek",
+            "target": "Sequoia Capital India",
+            "key": 0
+        },
+        {
+            "source": "Go-Jek",
+            "target": "Temasek Holdings",
+            "key": 0
+        },
+        {
+            "source": "Go-Jek",
+            "target": "Tencent Holdings",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "All-Stars Investment",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Beacon Venture Capital",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Booking Holdings",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Central Group of Company",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Didi Chuxing",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "GC Capital",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "GGV Capital",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Hillhouse Capital Group",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Honda Motor",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Hyundai Motor Company",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Microsoft",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Mirae Asset-Naver Asia Growth Fund",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Qunar.com",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "SoftBank",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "SoftBank Vision Fund",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Tiger Global Management",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Tokyo Century",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Toyota Motor Corporation",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Vertex Ventures",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Vertex Ventures Southeast Asia & India",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Yamaha Motor Co.,",
+            "key": 0
+        },
+        {
+            "source": "Grab",
+            "target": "Ninja Van",
+            "key": 0
+        },
+        {
+            "source": "Lazada",
+            "target": "Alibaba Group",
+            "key": 0
+        },
+        {
+            "source": "Lazada",
+            "target": "HV Holtzbrinck Ventures",
+            "key": 0
+        },
+        {
+            "source": "Lazada",
+            "target": "Rocket Internet",
+            "key": 0
+        },
+        {
+            "source": "Lazada",
+            "target": "Summit Partners",
+            "key": 0
+        },
+        {
+            "source": "Lazada",
+            "target": "Temasek Holdings",
+            "key": 0
+        },
+        {
+            "source": "Lazada",
+            "target": "TEV | Tengelmann Ventures",
+            "key": 0
+        },
+        {
+            "source": "Carro",
+            "target": "Alpha JWC Ventures",
+            "key": 0
+        },
+        {
+            "source": "Carro",
+            "target": "B Capital Group",
+            "key": 0
+        },
+        {
+            "source": "Carro",
+            "target": "GMO",
+            "key": 0
+        },
+        {
+            "source": "Carro",
+            "target": "Golden Gate Ventures",
+            "key": 0
+        },
+        {
+            "source": "Carro",
+            "target": "Insignia Ventures Partners",
+            "key": 0
+        },
+        {
+            "source": "Carro",
+            "target": "Manik Arora",
+            "key": 0
+        },
+        {
+            "source": "Carro",
+            "target": "Singtel Innov8",
+            "key": 0
+        },
+        {
+            "source": "Carro",
+            "target": "Skystar Capital",
+            "key": 0
+        },
+        {
+            "source": "Carro",
+            "target": "Softbank Ventures Asia",
+            "key": 0
+        },
+        {
+            "source": "Carro",
+            "target": "Venturra Capital",
+            "key": 0
+        },
+        {
+            "source": "Traveloka",
+            "target": "East Ventures",
+            "key": 0
+        },
+        {
+            "source": "Traveloka",
+            "target": "Expedia",
+            "key": 0
+        },
+        {
+            "source": "Traveloka",
+            "target": "GIC",
+            "key": 0
+        },
+        {
+            "source": "Traveloka",
+            "target": "Global Founders Capital",
+            "key": 0
+        },
+        {
+            "source": "Traveloka",
+            "target": "Hillhouse Capital Group",
+            "key": 0
+        },
+        {
+            "source": "Traveloka",
+            "target": "JD.com",
+            "key": 0
+        },
+        {
+            "source": "Traveloka",
+            "target": "Sequoia Capital",
+            "key": 0
+        },
+        {
+            "source": "Tiket.com",
+            "target": "Blibli",
+            "key": 0
+        },
+        {
+            "source": "Bukalapak",
+            "target": "500 Startups",
+            "key": 0
+        },
+        {
+            "source": "Bukalapak",
+            "target": "Ant Financial",
+            "key": 0
+        },
+        {
+            "source": "Bukalapak",
+            "target": "Batavia Incubator",
+            "key": 0
+        },
+        {
+            "source": "Bukalapak",
+            "target": "Emtek Group",
+            "key": 0
+        },
+        {
+            "source": "Bukalapak",
+            "target": "GIC",
+            "key": 0
+        },
+        {
+            "source": "Bukalapak",
+            "target": "GREE Ventures",
+            "key": 0
+        },
+        {
+            "source": "Bukalapak",
+            "target": "IREP",
+            "key": 0
+        },
+        {
+            "source": "Bukalapak",
+            "target": "Mirae Asset-Naver Asia Growth Fund",
+            "key": 0
+        },
+        {
+            "source": "Bukalapak",
+            "target": "aucfan Co.,Ltd.",
+            "key": 0
+        },
+        {
+            "source": "PropertyGuru",
+            "target": "Emtek Group",
+            "key": 0
+        },
+        {
+            "source": "PropertyGuru",
+            "target": "Finn Evdemon Capital Partners",
+            "key": 0
+        },
+        {
+            "source": "PropertyGuru",
+            "target": "ImmobilienScout 24",
+            "key": 0
+        },
+        {
+            "source": "PropertyGuru",
+            "target": "Kohlberg Kravis Roberts (KKR)",
+            "key": 0
+        },
+        {
+            "source": "PropertyGuru",
+            "target": "Square Peg Capital",
+            "key": 0
+        },
+        {
+            "source": "PropertyGuru",
+            "target": "Tigris Capital",
+            "key": 0
+        },
+        {
+            "source": "PropertyGuru",
+            "target": "TPG",
+            "key": 0
+        },
+        {
+            "source": "PropertyGuru",
+            "target": "Upstream Ventures",
+            "key": 0
+        },
+        {
+            "source": "MoneySmart",
+            "target": "Convergence Ventures",
+            "key": 0
+        },
+        {
+            "source": "MoneySmart",
+            "target": "Golden Gate Ventures",
+            "key": 0
+        },
+        {
+            "source": "MoneySmart",
+            "target": "Kakaku.com",
+            "key": 0
+        },
+        {
+            "source": "MoneySmart",
+            "target": "OPT SEA",
+            "key": 0
+        },
+        {
+            "source": "MoneySmart",
+            "target": "Royston Tay",
+            "key": 0
+        },
+        {
+            "source": "MoneySmart",
+            "target": "SPH Media Fund",
+            "key": 0
+        },
+        {
+            "source": "99.co",
+            "target": "500 Startups",
+            "key": 0
+        },
+        {
+            "source": "99.co",
+            "target": "Sequoia Capital India",
+            "key": 0
+        },
+        {
+            "source": "99.co",
+            "target": "East Ventures",
+            "key": 0
+        },
+        {
+            "source": "99.co",
+            "target": "Fenox Venture Capital",
+            "key": 0
+        },
+        {
+            "source": "99.co",
+            "target": "Golden Gate Ventures",
+            "key": 0
+        },
+        {
+            "source": "Sea - NYSE:SE",
+            "target": "Tiger Global Management, LLC",
+            "key": 0
+        },
+        {
+            "source": "Sea - NYSE:SE",
+            "target": "Charles-Lim Capital Ltd",
+            "key": 0
+        },
+        {
+            "source": "Sea - NYSE:SE",
+            "target": "Price (T.Rowe) Associates Inc",
+            "key": 0
+        },
+        {
+            "source": "Sea - NYSE:SE",
+            "target": "General Atlantic, LLC",
+            "key": 0
+        },
+        {
+            "source": "Sea - NYSE:SE",
+            "target": "Ward Ferry Management (BVI) Ltd",
+            "key": 0
+        },
+        {
+            "source": "Sea - NYSE:SE",
+            "target": "Invesco Ltd.",
+            "key": 0
+        },
+        {
+            "source": "Sea - NYSE:SE",
+            "target": "Lone Pine Capital, LLC",
+            "key": 0
+        },
+        {
+            "source": "Sea - NYSE:SE",
+            "target": "Baillie Gifford and Company",
+            "key": 0
+        },
+        {
+            "source": "Sea - NYSE:SE",
+            "target": "Hsbc Holdings Plc",
+            "key": 0
+        },
+        {
+            "source": "AirTrunk",
+            "target": "Goldman Sachs",
+            "key": 0
+        },
+        {
+            "source": "AirTrunk",
+            "target": "TPG",
+            "key": 0
+        },
+        {
+            "source": "AirTrunk",
+            "target": "Deutsche Bank",
+            "key": 0
+        },
+        {
+            "source": "AirTrunk",
+            "target": "Natixis",
+            "key": 0
+        },
+        {
+            "source": "Trax",
+            "target": "Boyu Capital",
+            "key": 0
+        },
+        {
+            "source": "Trax",
+            "target": "Warburg Pincus",
+            "key": 0
+        },
+        {
+            "source": "Trax",
+            "target": "Investec",
+            "key": 0
+        },
+        {
+            "source": "Trax",
+            "target": "Broad Peak Investment",
+            "key": 0
+        },
+        {
+            "weight": 0.5,
+            "source": "KyberNetwork",
+            "target": "Andreas Schwartz",
+            "key": 0
+        },
+        {
+            "weight": 0.5,
+            "source": "KyberNetwork",
+            "target": "Julian Sarokin",
+            "key": 0
+        },
+        {
+            "weight": 0.5,
+            "source": "KyberNetwork",
+            "target": "Amino Capital",
+            "key": 0
+        },
+        {
+            "weight": 0.5,
+            "source": "KyberNetwork",
+            "target": "8 Decimal Capital",
+            "key": 0
+        },
+        {
+            "weight": 0.5,
+            "source": "KyberNetwork",
+            "target": "Chain Capital",
+            "key": 0
+        },
+        {
+            "weight": 0.5,
+            "source": "KyberNetwork",
+            "target": "Plasma Capital",
+            "key": 0
+        },
+        {
+            "weight": 0.5,
+            "source": "KyberNetwork",
+            "target": "Hashed",
+            "key": 0
+        },
+        {
+            "source": "Bigo",
+            "target": "YY.com",
+            "key": 0
+        },
+        {
+            "source": "Bigo",
+            "target": "Xueling Li",
+            "key": 0
+        },
+        {
+            "source": "Bigo",
+            "target": "Ping An Overseas Holdings",
+            "key": 0
+        },
+        {
+            "source": "ONE Championship",
+            "target": "Sequoia Capital",
+            "key": 0
+        },
+        {
+            "source": "ONE Championship",
+            "target": "Greenoaks Capital",
+            "key": 0
+        },
+        {
+            "source": "ONE Championship",
+            "target": "Temasek Holdings",
+            "key": 0
+        },
+        {
+            "source": "ONE Championship",
+            "target": "Heliconia Capital Management",
+            "key": 0
+        },
+        {
+            "source": "ONE Championship",
+            "target": "Sequoia Capital India",
+            "key": 0
+        },
+        {
+            "source": "ONE Championship",
+            "target": "Mission Holdings",
+            "key": 0
+        },
+        {
+            "source": "MyRepublic",
+            "target": "CLSA Capital Partners",
+            "key": 0
+        },
+        {
+            "source": "MyRepublic",
+            "target": "Kamet Capital Partners",
+            "key": 0
+        },
+        {
+            "source": "MyRepublic",
+            "target": "Makara Capital",
+            "key": 0
+        },
+        {
+            "source": "MyRepublic",
+            "target": "DST Communications",
+            "key": 0
+        },
+        {
+            "source": "MyRepublic",
+            "target": "Xavier Niel",
+            "key": 0
+        },
+        {
+            "source": "MyRepublic",
+            "target": "Sunshine Network",
+            "key": 0
+        },
+        {
+            "source": "MyRepublic",
+            "target": "Dian Swastatika Sentosa",
+            "key": 0
+        },
+        {
+            "source": "Sunseap",
+            "target": "ING Group",
+            "key": 0
+        },
+        {
+            "source": "Sunseap",
+            "target": "Banpu",
+            "key": 0
+        },
+        {
+            "source": "Sunseap",
+            "target": "United Overseas Bank",
+            "key": 0
+        },
+        {
+            "source": "Sunseap",
+            "target": "ISOTeam",
+            "key": 0
+        },
+        {
+            "source": "Sunseap",
+            "target": "APUS Investments",
+            "key": 0
+        },
+        {
+            "source": "Sunseap",
+            "target": "TRIREC",
+            "key": 0
+        },
+        {
+            "source": "Sunseap",
+            "target": "DBS Bank",
+            "key": 0
+        },
+        {
+            "source": "Sunseap",
+            "target": "Enspire Capital",
+            "key": 0
+        },
+        {
+            "source": "Sunseap",
+            "target": "Chow Tai Fook",
+            "key": 0
+        },
+        {
+            "source": "Thessa Therapeutics",
+            "target": "Temasek Holdings",
+            "key": 0
+        },
+        {
+            "source": "Thessa Therapeutics",
+            "target": "Heliconia Capital Management",
+            "key": 0
+        },
+        {
+            "source": "Thessa Therapeutics",
+            "target": "EDBI",
+            "key": 0
+        },
+        {
+            "source": "Thessa Therapeutics",
+            "target": "Karst Peak Capital",
+            "key": 0
+        },
+        {
+            "source": "Carousell",
+            "target": "500 Startups",
+            "key": 0
+        },
+        {
+            "source": "Carousell",
+            "target": "DBS Bank",
+            "key": 0
+        },
+        {
+            "source": "Carousell",
+            "target": "EDBI",
+            "key": 0
+        },
+        {
+            "source": "Carousell",
+            "target": "Golden Gate Ventures",
+            "key": 0
+        },
+        {
+            "source": "Carousell",
+            "target": "K3 Ventures",
+            "key": 0
+        },
+        {
+            "source": "Carousell",
+            "target": "OLX Group",
+            "key": 0
+        },
+        {
+            "source": "Carousell",
+            "target": "Rakuten Capital",
+            "key": 0
+        },
+        {
+            "source": "Carousell",
+            "target": "Sequoia Capital India",
+            "key": 0
+        },
+        {
+            "source": "Ninja Van",
+            "target": "Abraaj Group",
+            "key": 0
+        },
+        {
+            "source": "Ninja Van",
+            "target": "B Capital Group",
+            "key": 0
+        },
+        {
+            "source": "Ninja Van",
+            "target": "DPD group",
+            "key": 0
+        },
+        {
+            "source": "Ninja Van",
+            "target": "Kuo-Yi Lim",
+            "key": 0
+        },
+        {
+            "source": "Ninja Van",
+            "target": "Monk's Hill Ventures",
+            "key": 0
+        },
+        {
+            "source": "Zilingo",
+            "target": "Amadeus Capital Partners",
+            "key": 0
+        },
+        {
+            "source": "Zilingo",
+            "target": "Angel Capital Management",
+            "key": 0
+        },
+        {
+            "source": "Zilingo",
+            "target": "BEENEXT",
+            "key": 0
+        },
+        {
+            "source": "Zilingo",
+            "target": "Burda Principal Investments",
+            "key": 0
+        },
+        {
+            "source": "Zilingo",
+            "target": "Draper Associates",
+            "key": 0
+        },
+        {
+            "source": "Zilingo",
+            "target": "EDBI",
+            "key": 0
+        },
+        {
+            "source": "Zilingo",
+            "target": "Manik Arora",
+            "key": 0
+        },
+        {
+            "source": "Zilingo",
+            "target": "Sequoia Capital",
+            "key": 0
+        },
+        {
+            "source": "Zilingo",
+            "target": "Sequoia Capital India",
+            "key": 0
+        },
+        {
+            "source": "Zilingo",
+            "target": "Sofina",
+            "key": 0
+        },
+        {
+            "source": "Zilingo",
+            "target": "Susquehanna International Group (SIG)",
+            "key": 0
+        },
+        {
+            "source": "Zilingo",
+            "target": "Temasek Holdings",
+            "key": 0
+        },
+        {
+            "source": "Zilingo",
+            "target": "Tim Draper",
+            "key": 0
+        },
+        {
+            "source": "Zilingo",
+            "target": "Venturra Capital",
+            "key": 0
+        },
+        {
+            "source": "Zilingo",
+            "target": "Wavemaker Partners",
+            "key": 0
+        },
+        {
+            "source": "MC Payment",
+            "target": "tryb Group",
+            "key": 0
+        },
+        {
+            "source": "MC Payment",
+            "target": "Perle Ventures",
+            "key": 0
+        },
+        {
+            "source": "MC Payment",
+            "target": "2W Group",
+            "key": 0
+        },
+        {
+            "source": "MC Payment",
+            "target": "Aura Ventures",
+            "key": 0
+        },
+        {
+            "source": "MC Payment",
+            "target": "Golden Equator Capital",
+            "key": 0
+        },
+        {
+            "source": "MC Payment",
+            "target": "ESW Manage",
+            "key": 0
+        },
+        {
+            "source": "MC Payment",
+            "target": "DZW Capital",
+            "key": 0
+        },
+        {
+            "source": "Republic Protocol",
+            "target": "Polychain",
+            "key": 0
+        },
+        {
+            "source": "Republic Protocol",
+            "target": "FBG Capital",
+            "key": 0
+        },
+        {
+            "source": "Republic Protocol",
+            "target": "Hyperchain Capital",
+            "key": 0
+        },
+        {
+            "source": "Republic Protocol",
+            "target": "Huobi Capital",
+            "key": 0
+        },
+        {
+            "source": "Republic Protocol",
+            "target": "Limitless Crypto Investments",
+            "key": 0
+        },
+        {
+            "source": "Republic Protocol",
+            "target": "BlockVC",
+            "key": 0
+        },
+        {
+            "weight": 0.5,
+            "source": "TenX",
+            "target": "Alexis Berthoud",
+            "key": 0
+        },
+        {
+            "weight": 0.5,
+            "source": "TenX",
+            "target": "Andreas von Arx",
+            "key": 0
+        },
+        {
+            "weight": 0.5,
+            "source": "TenX",
+            "target": "Chain Capital",
+            "key": 0
+        },
+        {
+            "weight": 0.5,
+            "source": "TenX",
+            "target": "Connor Benoit-Milner",
+            "key": 0
+        },
+        {
+            "weight": 0.5,
+            "source": "TenX",
+            "target": "Dennis Jacobs",
+            "key": 0
+        },
+        {
+            "weight": 0.5,
+            "source": "TenX",
+            "target": "FF Estate AG",
+            "key": 0
+        },
+        {
+            "weight": 0.5,
+            "source": "TenX",
+            "target": "Fenbushi Capital",
+            "key": 0
+        },
+        {
+            "weight": 0.5,
+            "source": "TenX",
+            "target": "John Rost",
+            "key": 0
+        },
+        {
+            "weight": 0.5,
+            "source": "TenX",
+            "target": "Mustedanagic & Plott Brothers GbR",
+            "key": 0
+        },
+        {
+            "source": "Tokopedia",
+            "target": "SoftBank Vision Fund",
+            "key": 0
+        },
+        {
+            "source": "Tokopedia",
+            "target": "Alibaba Group",
+            "key": 0
+        },
+        {
+            "source": "Tokopedia",
+            "target": "Softbank Ventures Asia",
+            "key": 0
+        },
+        {
+            "source": "Tokopedia",
+            "target": "East Ventures",
+            "key": 0
+        },
+        {
+            "source": "Tokopedia",
+            "target": "Sequoia Capital India",
+            "key": 0
+        }
+    ]
+}
